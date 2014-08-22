@@ -1,5 +1,7 @@
 que puede
 decir de
+insert
 cccc.txt
 nada
 dfgdfgdfg
+fin
